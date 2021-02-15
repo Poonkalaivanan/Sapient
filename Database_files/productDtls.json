@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "6029777644c824157c91e2c4"
+  },
+  "name": "item2",
+  "description": "Desc",
+  "cost": "100",
+  "isAvailable": true,
+  "seller": "seller_1"
+},{
+  "_id": {
+    "$oid": "6029778844c824157c91e2c5"
+  },
+  "name": "item3",
+  "description": "Desc",
+  "cost": "100",
+  "isAvailable": true,
+  "seller": "seller_1"
+},{
+  "_id": {
+    "$oid": "6029779144c824157c91e2c6"
+  },
+  "name": "item4",
+  "description": "Desc",
+  "cost": "100",
+  "isAvailable": true,
+  "seller": "seller_1"
+},{
+  "_id": {
+    "$oid": "6029779844c824157c91e2c7"
+  },
+  "name": "item5",
+  "description": "Desc",
+  "cost": "100",
+  "isAvailable": true,
+  "seller": "seller_1"
+},{
+  "_id": {
+    "$oid": "602977dd44c824157c91e2c8"
+  },
+  "name": "item6",
+  "description": "Desc",
+  "cost": "100",
+  "isAvailable": true,
+  "seller": "seller_1"
+},{
+  "_id": {
+    "$oid": "602977e844c824157c91e2c9"
+  },
+  "name": "item7",
+  "description": "Desc",
+  "cost": "100",
+  "isAvailable": true,
+  "seller": "seller_1"
+},{
+  "_id": {
+    "$oid": "602977f144c824157c91e2ca"
+  },
+  "name": "item8",
+  "description": "Desc",
+  "cost": "100",
+  "isAvailable": true,
+  "seller": "seller_1"
+},{
+  "_id": {
+    "$oid": "602977fc44c824157c91e2cb"
+  },
+  "name": "item9",
+  "description": "Desc",
+  "cost": "100",
+  "isAvailable": true,
+  "seller": "seller_1"
+},{
+  "_id": {
+    "$oid": "6029781544c824157c91e2cc"
+  },
+  "name": "item10",
+  "description": "Desc",
+  "cost": "100",
+  "isAvailable": true,
+  "seller": "seller_1"
+},{
+  "_id": {
+    "$oid": "6029b340d43eaa57853b873f"
+  },
+  "name": "item1",
+  "description": "Desc",
+  "cost": 100,
+  "isAvailable": false,
+  "seller": "seller_1"
+}]
