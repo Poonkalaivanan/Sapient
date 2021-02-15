@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "602a07163c37b733d9d7db4a"
+  },
+  "pallet": "pallet1",
+  "truck": "truck1"
+},{
+  "_id": {
+    "$oid": "602a076044c824157c91e2cd"
+  },
+  "pallet": "pallet2",
+  "truck": "truck1"
+},{
+  "_id": {
+    "$oid": "602a076844c824157c91e2ce"
+  },
+  "pallet": "pallet3",
+  "truck": "truck1"
+},{
+  "_id": {
+    "$oid": "602a077644c824157c91e2cf"
+  },
+  "pallet": "pallet4",
+  "truck": "truck2"
+},{
+  "_id": {
+    "$oid": "602a078144c824157c91e2d0"
+  },
+  "pallet": "pallet5",
+  "truck": "truck2"
+},{
+  "_id": {
+    "$oid": "602a078f44c824157c91e2d1"
+  },
+  "pallet": "pallet6",
+  "truck": "truck2"
+}]
